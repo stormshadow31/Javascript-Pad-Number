@@ -1,1 +1,1 @@
-# Javascrpt-Pad-Number
+# Javascript-Pad-Number
